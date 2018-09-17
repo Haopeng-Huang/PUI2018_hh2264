@@ -6,5 +6,6 @@ Then I changed directory to the newly created PUI2018 and checked my present wor
 After that I opened the nano file editor to make the PUI2018 environmental variable permanent. 
 Then I created alias for shortcuts to commands, and took a screenshot the current bashrc file.
 Then I typed some commands to set my present working directory as PUI2018 and took a second screenshot of the terminal. 
+
 ![ALt_text](HW1_hh2264/HW1_Screenshot1.png)
 ![ALt_text](HW1_hh2264/HW1_Screenshot2.png)
