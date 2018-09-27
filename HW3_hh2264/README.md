@@ -11,4 +11,9 @@ Then I typed the commands to remove the test.csv file and its history from the r
 ![ALt_text](HW3_Screenshot3.png)
 ![ALt_text](HW3_Screenshot4.png)
 
-For Assignment 2,
+For Assignment 2, I found a CSV dataset in Water Consumption in NYC over Time from NYC Open Data. Then I used pandas dataframe to take out two columns of quantitative data and make a plot. 
+Next I used API with json file as a second solution to plot the two columns against the time column respectively. 
+
+For Assignment 3, I firstly got an API key to enable my script to pull MTA bus data. Then I tried different bus lines to test my code. 
+
+For Assignment 4, I added the code that wrote my output into CSV form that displays information on the next stop location of all busses of a given line. 
