@@ -1,7 +1,7 @@
 # PUI2018 Homework 8
 
 ### Assignment 1
-Visualization of NYC Residential Population Density Map on log-scale using data for residential location and demographic decomposition of urban population acording to LEHD and data for work location and demographic decomposition of urban population acording to LEHD.
+Visualization of NYC Residential Population Density Map on log-scale using data for residential location and demographic decomposition of urban population acording to LEHD and data for work location and demographic decomposition of urban population acording to LEHD. The other data files in this repo folder are just in case that the reviewer cannot access data from PUIdata and view the plot.
 
 ![Alt text](Assignment1_Plot.png)
 
