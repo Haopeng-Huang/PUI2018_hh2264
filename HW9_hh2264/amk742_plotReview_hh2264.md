@@ -1,0 +1,9 @@
+Hi Alia,
+
+    Good work on your plot! This is a pretty interesting dataset to analyze with! Your data cleaning and plot making parts are both clear and efficient. However, I don't really get the point of comparing count of passengers injury VS count of cyclist injury... Are you trying to see that if car collisons are associated with more passenger injuries or more biker injuries? If so, are you comparing these numbers of injuries within the same incidents? Like if a single car collision event happens, what would be the typical number of injuries for passengers in the vehicle and bikers involved? Because only if you put these two categories under on common condition can you adress their relationship. And in this case you can only use the car collison data that inclue both passenger injury and biker injury and nothing else. Another improvement can be made on your plot is your inconsistency between label intervals on x-axis and on y-axis. The value of interval on x-axis is way higher than that on y-axis but you made them seem equally distributed, like the shape of a square of your plot. This may mislead the reader of the linear relationship and its value between the two variables. If you make the interval on x-axis as its actual value corresponding to the interval on y-axis, you may see an even flatter best-fit line, or an even weaker positive linear relationship, between the two variables. I don't know what the r-square or other statistical values are, but I doubt that in this case there would still be positive linear relationship between the two variables... Because the data points on your plot don't seem to follow such a relationship. Other than these, your regression line drawing and its surrounding shadow (I don't know the function and meaning...) is clear and helps reader to understand the point in this plot at the first sight. 
+    
+![Alt text](Collision_Plot.png)
+
+Best,
+
+Haopeng
